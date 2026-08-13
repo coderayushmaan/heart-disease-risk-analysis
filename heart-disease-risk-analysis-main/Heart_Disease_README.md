@@ -338,6 +338,6 @@ Running `04_dashboard.ipynb` saves `heart_disease_dashboard.png` (300 DPI) to th
 
 ## Author
 
-**Amandeep Singh**
-MCA — Lovely Professional University
-[GitHub](https://github.com/amndeep7) · [LinkedIn](https://linkedin.com/in/amndeep7)
+**Ayushmaan pandey**
+BCA — Chhatrapati sahuji maharaj university
+[GitHub](https://github.com/coderayushmaan) · [LinkedIn](https://www.linkedin.com/in/ayushmaan-pandey-633b4135a/)
