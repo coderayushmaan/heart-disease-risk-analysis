@@ -261,7 +261,7 @@ plt.savefig("heart_disease_dashboard.png", dpi=300, bbox_inches="tight")
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/amndeep7/heart-disease-risk-analysis.git
+git clone https://github.com/coderayushmaan/heart-disease-risk-analysis.git
 cd heart-disease-risk-analysis
 ```
 
@@ -338,6 +338,6 @@ Running `04_dashboard.ipynb` saves `heart_disease_dashboard.png` (300 DPI) to th
 
 ## Author
 
-**Amandeep Singh**
-MCA — Lovely Professional University
-[GitHub](https://github.com/amndeep7) · [LinkedIn](https://linkedin.com/in/amndeep7)
+**Ayushmaan pandey**
+BCA - Chhatrapati Sahuji Maharaj University
+[GitHub](https://github.com/coderayushmaan) · [LinkedIn](https://www.linkedin.com/in/ayushmaan-pandey-633b4135a/)
